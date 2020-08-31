@@ -1,0 +1,15 @@
+{
+    "name": "lychee/lychee",
+    "description": "Lychee app skeleton",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Y!an",
+            "email": "i@yian.me"
+        }
+    ],
+    "require": {
+	"lychee/framework": "*@dev"
+    }
+}
